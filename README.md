@@ -1,16 +1,4 @@
 # AppCar info
 
-A new Flutter project.
+![Screenshot 2023-11-15 114052](https://github.com/ELIOK21/appcar.flutter/assets/117645881/0fc8874a-e004-4f0e-8310-36920451ab6f)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
